@@ -186,7 +186,7 @@ The system:
 ## Project Structure
 
 ```text
-special-issue/
+Project/
 │
 ├── main.py
 ├── README.md
