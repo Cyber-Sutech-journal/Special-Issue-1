@@ -230,3 +230,5 @@ It was developed as an AI-related project for the Special Issue of the Scientifi
 ## License
 
 This project is provided for educational and research purposes.
+
+Contributor update
